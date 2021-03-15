@@ -1,0 +1,13 @@
+{
+	"bleedtransparentcolors" : true,
+	"clampuvs" : true,
+	"croppadding" : 50,
+	"croptransparent" : true,
+	"cropx0" : 263,
+	"cropx1" : 1176,
+	"cropy0" : 0,
+	"cropy1" : 1753,
+	"format" : "rgba8888",
+	"nointerpolation" : true,
+	"nonpoweroftwo" : true
+}
